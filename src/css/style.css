@@ -9,7 +9,7 @@ body {
 .table-bg {
     width: 100%;
     height: 100vh;
-    background-image: url('/Users/bence/Desktop/tams/src/assets/full_empty.jpg');
+    background-image: url('./src/assets/full_empty.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
