@@ -25,6 +25,8 @@ body {
 .laptop {
     position: relative;
     width: 672px;
+    -webkit-clip-path: polygon(1% 4%, 6% 79%, 23% 99%, 100% 87%, 77% 68%, 71% 1%);
+    clip-path: polygon(1% 4%, 6% 79%, 23% 99%, 100% 87%, 77% 68%, 71% 1%);
 }
 
 .mic-wrapper {
